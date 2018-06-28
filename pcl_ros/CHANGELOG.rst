@@ -2,6 +2,11 @@
 Changelog for package pcl_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [mayfield] set up packaging
+* Contributors: Kevin Gucwa
+
 1.2.9 (2018-04-04)
 ------------------
 
